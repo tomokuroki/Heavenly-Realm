@@ -1,0 +1,9 @@
+{
+  "ambientocclusion":false,
+  "render_type":"minecraft:cutout",
+  "textures":{"particle":"heavenly_realm:block/heaven_grass","cross":"heavenly_realm:block/heaven_grass"},
+  "elements":[
+    {"from":[-4,0,7.9],"to":[20,32,8.1],"rotation":{"origin":[8,0,8],"axis":"y","angle":45,"rescale":false},"shade":false,"faces":{"north":{"uv":[0,0,16,16],"texture":"#cross"},"south":{"uv":[0,0,16,16],"texture":"#cross"}}},
+    {"from":[-4,0,7.9],"to":[20,32,8.1],"rotation":{"origin":[8,0,8],"axis":"y","angle":-45,"rescale":false},"shade":false,"faces":{"north":{"uv":[0,0,16,16],"texture":"#cross"},"south":{"uv":[0,0,16,16],"texture":"#cross"}}}
+  ]
+}

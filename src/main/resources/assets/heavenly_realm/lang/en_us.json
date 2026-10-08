@@ -1,0 +1,19 @@
+{
+  "itemGroup.heavenly_realm": "Heavenly Realm",
+  "block.heavenly_realm.cloud_marble": "Cloud Marble",
+  "block.heavenly_realm.sunstone": "Sunstone",
+  "block.heavenly_realm.skybell": "Skybell",
+  "block.heavenly_realm.heaven_grass": "Heaven Grass",
+  "entity.heavenly_realm.angel": "Angel",
+  "entity.heavenly_realm.guardian_angel": "Guardian Angel",
+  "message.heavenly_realm.arrival": "§bYou have left the mortal world. Find 7 Skybells and give them to the guardian angel to return.",
+  "message.heavenly_realm.quest": "§eAngel: bring me %s more Skybells.",
+  "message.heavenly_realm.returned": "§6The angel accepted the flowers and returned you to the world of the living.",
+  "message.heavenly_realm.no_escape": "§cDeath cannot free you from heaven. Complete the angel's request.",
+  "message.heavenly_realm.no_death": "§bYou cannot die in Heaven. The angel returned you to the altar.",
+  "message.heavenly_realm.portal_blocked": "§cThe gates will not release you. Helping the angel is the only way home.",
+  "message.heavenly_realm.void_saved": "§bThe heavens caught you and returned you to the altar.",
+  "message.heavenly_realm.quest_status": "§eSkybells still needed to return home: %s",
+  "message.heavenly_realm.quest_ready": "§aAll flowers collected! Return to the guardian angel.",
+  "message.heavenly_realm.missing_dimension": "§cThe heavenly dimension could not be loaded. Check the mod installation."
+}

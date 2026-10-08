@@ -1,25 +1,21 @@
+# Heavenly Realm
 
-Installation information
-=======
+[English](README.md) · [Русский](README_RU.md)
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+**Heavenly Realm** is a NeoForge 1.21.1 mod that turns death into a journey through a custom paradise dimension.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Features
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+- A fully custom heavenly dimension with three biomes
+- Animated fields of giant swaying grass, flowers and peaceful animals
+- A custom 3D guardian angel with a halo and animated wings
+- Cloud Marble, Sunstone and Skybell blocks with original textures
+- A quest to collect seven Skybells before the angel lets you return home
+- No death, void escape or portal escape while trapped in Heaven
+- English and Russian in-game localization
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Build
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Requires Java 21. Run `gradlew.bat build`. The finished mod will be created in `build/libs`.
+
+Built for Minecraft 1.21.1 and NeoForge 21.1.250.

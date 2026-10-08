@@ -1,0 +1,5 @@
+{
+  "has_precipitation":false,"temperature":0.8,"downfall":0.0,
+  "effects":{"fog_color":16773342,"water_color":11393254,"water_fog_color":9287988,"sky_color":16772031,"grass_color":16768682,"foliage_color":15790080,"mood_sound":{"sound":"minecraft:ambient.cave","tick_delay":6000,"block_search_extent":8,"offset":2.0}},
+  "spawners":{"creature":[{"type":"minecraft:rabbit","weight":20,"minCount":3,"maxCount":6},{"type":"minecraft:cow","weight":10,"minCount":2,"maxCount":4},{"type":"minecraft:chicken","weight":12,"minCount":3,"maxCount":6}]},"spawn_costs":{},"carvers":{},"features":[]
+}

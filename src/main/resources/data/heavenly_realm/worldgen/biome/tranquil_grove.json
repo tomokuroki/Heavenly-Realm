@@ -1,0 +1,5 @@
+{
+  "has_precipitation":true,"temperature":0.6,"downfall":0.8,
+  "effects":{"fog_color":13434879,"water_color":8175837,"water_fog_color":5811123,"sky_color":10473471,"grass_color":10485670,"foliage_color":7929720,"mood_sound":{"sound":"minecraft:ambient.cave","tick_delay":6000,"block_search_extent":8,"offset":2.0}},
+  "spawners":{"creature":[{"type":"minecraft:fox","weight":8,"minCount":1,"maxCount":3},{"type":"minecraft:wolf","weight":5,"minCount":1,"maxCount":3},{"type":"minecraft:rabbit","weight":16,"minCount":2,"maxCount":5}]},"spawn_costs":{},"carvers":{},"features":[]
+}

@@ -1,0 +1,19 @@
+{
+  "itemGroup.heavenly_realm": "Небесное царство",
+  "block.heavenly_realm.cloud_marble": "Облачный мрамор",
+  "block.heavenly_realm.sunstone": "Солнечный камень",
+  "block.heavenly_realm.skybell": "Небесный цветок",
+  "block.heavenly_realm.heaven_grass": "Райская трава",
+  "entity.heavenly_realm.angel": "Ангел",
+  "entity.heavenly_realm.guardian_angel": "Ангел-хранитель",
+  "message.heavenly_realm.arrival": "§bТы покинул мир смертных. Найди 7 небесных цветов и отдай их ангелу-хранителю, чтобы вернуться.",
+  "message.heavenly_realm.quest": "§eАнгел: принеси ещё %s небесных цветов.",
+  "message.heavenly_realm.returned": "§6Ангел принял цветы и вернул тебя в мир живых.",
+  "message.heavenly_realm.no_escape": "§cИз рая нельзя уйти через смерть. Выполни просьбу ангела.",
+  "message.heavenly_realm.no_death": "§bВ Раю нельзя умереть. Ангел вернул тебя к алтарю.",
+  "message.heavenly_realm.portal_blocked": "§cВрата не выпускают тебя. Единственный путь домой — помощь ангелу.",
+  "message.heavenly_realm.void_saved": "§bНебеса подхватили тебя и вернули к алтарю.",
+  "message.heavenly_realm.quest_status": "§eДо возвращения домой осталось цветов: %s",
+  "message.heavenly_realm.quest_ready": "§aВсе цветы собраны! Вернись к ангелу-хранителю.",
+  "message.heavenly_realm.missing_dimension": "§cИзмерение рая не загрузилось. Проверь установку мода."
+}

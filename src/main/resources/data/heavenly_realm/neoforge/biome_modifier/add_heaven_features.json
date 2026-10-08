@@ -1,0 +1,6 @@
+{
+  "type":"neoforge:add_features",
+  "biomes":"#heavenly_realm:heaven_biomes",
+  "features":["heavenly_realm:cloud_marble_ore","heavenly_realm:sunstone_ore","heavenly_realm:skybell_patch","heavenly_realm:heaven_grass_patch","minecraft:flower_meadow","minecraft:trees_cherry","minecraft:trees_flower_forest"],
+  "step":"vegetal_decoration"
+}
